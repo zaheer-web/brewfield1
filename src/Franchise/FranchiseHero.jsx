@@ -33,7 +33,7 @@ export default function FranchiseHero() {
         <div className="max-w-[900px] mx-auto">
 
           {/* INNER BOX (WIDTH CONTROL) */}
-          <div className="max-w-[600px] mx-auto">
+          <div className="max-w-[600px] mx-auto pt-30">
 
             {/* LABEL */}
             <span

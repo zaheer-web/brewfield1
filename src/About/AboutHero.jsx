@@ -82,7 +82,7 @@ export default function AboutHero() {
       <div className="absolute inset-0 "></div>
 
       {/* CONTENT */}
-      <div className="relative z-10 w-full max-w-[800px] px-6">
+      <div className="relative z-10 w-full max-w-[800px] px-6 pt-30 ">
 
         <div ref={ref}>
 
