@@ -75,7 +75,7 @@ export default function AboutHero() {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover brightness-[0.5]"
+        className="absolute inset-0 w-full h-full object-cover brightness-[0.3]"
       />
 
       {/* OVERLAY */}
